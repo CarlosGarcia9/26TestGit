@@ -1,2 +1,3 @@
 # 26TestGit
-git hub tutorial
+
+This is a repository example.
