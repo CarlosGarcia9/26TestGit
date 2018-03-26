@@ -1,0 +1,8 @@
+
+
+
+
+(cedula, pin, nombre, saldo, etc)
+(1, 2222, "Pedro Perez", 25000, "Buen cliente"))
+(22, 1234, "Andrea Trejos", 153500, "Ojos azules"))
+(123, 0000, "Diana Porras", 3000, "Vive en Cartago"))
